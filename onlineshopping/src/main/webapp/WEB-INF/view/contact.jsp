@@ -9,9 +9,13 @@
 <body>
 	<div class="container">
 		<div class="row">
-			<h1>Contact Us</h1>
-			<hr />
-			<p>This is contact us</p>
+			<center>
+				<h1>Contact Us</h1>
+				<br>
+				<hr />
+
+				<p>This is contact us page</p>
+			</center>
 		</div>
 	</div>
 </body>
